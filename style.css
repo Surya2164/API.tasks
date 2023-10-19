@@ -1,0 +1,21 @@
+body {
+  width: auto;
+  margin: auto;
+  padding: 0%;
+}
+.main-container {
+  margin: auto;
+  width: auto;
+  align-items: center;
+}
+#jobs {
+  margin: auto;
+  width: auto;
+  align-items: center;
+  display: flex;
+  padding: 30px 44.882px 49px 85px;
+  justify-content: flex-end;
+  align-items: flex-start;
+  gap: 83.118px;
+  background: var(--tags-expired-d-8-d-8-d-8, #D8D8D8);
+}
